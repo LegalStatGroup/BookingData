@@ -1,0 +1,7 @@
+
+#global CRIMENEWS_USERNAME
+CRIMENEWS_USERNAME = 'sela124'
+CRIMENEWS_PASSWORD = 'TrustNo1!'
+CRIMENEWS_URL = 'https://www.localcrimenews.com/welcome/agencyarrests/23/Azusa_Police?pg=12'
+username = 'legalstat'
+password = 'vyxHzBB5Cffkppm'

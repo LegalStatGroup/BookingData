@@ -1,0 +1,16 @@
+**/*__pycache__
+*.pyc
+utils/__pycache__/file_operations.cpython-310.pyc
+utils/__pycache__/cprint.cpython-310.pyc
+utils/__pycache__/file_operations.cpython-310.pyc
+utils/__pycache__/html_operations.cpython-310.pyc
+__pycache__
+/utils/__pycache__
+/.vscode
+/__pycache__
+/env/__pycache__
+/_junk
+.env
+/src/__pycache__
+
+
